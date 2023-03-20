@@ -1,2 +1,3 @@
 Hello, Git
-Second Lin in file.txt
+Second Line in file.txt
+Third Line in file.txt
